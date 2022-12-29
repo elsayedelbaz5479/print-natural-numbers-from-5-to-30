@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\bin\Debug\net7.0\طباعت الاعداد التامه من 5الا30.exe
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\bin\Debug\net7.0\طباعت الاعداد التامه من 5الا30.deps.json
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\bin\Debug\net7.0\طباعت الاعداد التامه من 5الا30.runtimeconfig.json
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\bin\Debug\net7.0\طباعت الاعداد التامه من 5الا30.dll
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\bin\Debug\net7.0\طباعت الاعداد التامه من 5الا30.pdb
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.AssemblyInfo.cs
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.dll
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\refint\طباعت الاعداد التامه من 5الا30.dll
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.pdb
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\طباعت الاعداد التامه من 5الا30.genruntimeconfig.cache
+C:\Users\hp\source\repos\طباعت الاعداد التامه من 5الا30\obj\Debug\net7.0\ref\طباعت الاعداد التامه من 5الا30.dll
